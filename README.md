@@ -31,4 +31,4 @@ Netflix'e eklenen film ve dizi sayısındaki artış, platformun yıllar içinde
 ### En Çok Tercih Edilen Türler
 Aşağıdaki grafik, Netflix'teki en popüler 15 türü ortaya koymaktadır.
 
-![En Çok Tercih Edilen Türler](images/top_genres.png)
+![En Çok Tercih Edilen Türler](https://github.com/ozlem-wq/netflix_data_analysis/blob/main/top_genres.png)
