@@ -26,7 +26,7 @@ README.md: Projenin ana dokümantasyonunu ve genel bilgilerini barındırır.
 ### Yıllara Göre İçerik Trendleri
 Netflix'e eklenen film ve dizi sayısındaki artış, platformun yıllar içinde nasıl büyüdüğünü net bir şekilde göstermektedir.
 
-![Yıllara Göre İçerik Trendleri](images/yearlyandmonthlytrend.png)
+![Yıllara Göre İçerik Trendleri](https://github.com/ozlem-wq/netflix_data_analysis/blob/main/yearlyandmonthlytrend.png)
 
 ### En Çok Tercih Edilen Türler
 Aşağıdaki grafik, Netflix'teki en popüler 15 türü ortaya koymaktadır.
