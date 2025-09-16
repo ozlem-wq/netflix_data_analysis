@@ -21,16 +21,14 @@ notebooks/: Veri analizi ve görselleştirme için kullanılan Jupyter Notebook 
 
 README.md: Projenin ana dokümantasyonunu ve genel bilgilerini barındırır.
 
-🔍 Analiz ve Sonuçlar
-1. Veri Temizleme ve İlk Gözlemler
-Veri seti yüklendikten sonra, eksik ve hatalı veriler belirlenerek temizleme işlemleri gerçekleştirilmiştir. date_added sütunu düzenlenmiş ve bu veriler üzerinden aşağıdaki ilk gözlemler elde edilmiştir:
+📈 Analiz ve Sonuçlar
 
-Yıllara Göre Trend: Netflix'e eklenen film ve dizi sayısının yıllar içinde dramatik bir şekilde arttığı gözlemlenmiştir. Özellikle 2017 ve sonrasında büyük bir büyüme yaşanmıştır.
+### Yıllara Göre İçerik Trendleri
+Netflix'e eklenen film ve dizi sayısındaki artış, platformun yıllar içinde nasıl büyüdüğünü net bir şekilde göstermektedir.
 
-2. Tür Bazlı Analizler
-Veri setindeki listed_in (tür) sütunu analiz edilerek Netflix'teki en popüler film ve dizi türleri belirlenmiştir. Bu analiz, platformun hangi içeriklere daha fazla yatırım yaptığını anlamamızı sağlamıştır.
+![Yıllara Göre İçerik Trendleri](images/yearlyandmonthlytrend.png)
 
-📌 Yol Haritası (Devam Eden Çalışmalar)
-Ülke Bazlı Analizler: Yapımların hangi ülkelerden geldiğini ve coğrafi dağılımını incelemek.
+### En Çok Tercih Edilen Türler
+Aşağıdaki grafik, Netflix'teki en popüler 15 türü ortaya koymaktadır.
 
-Film/Dizi Karşılaştırması: Platformdaki film ve dizilerin süre, tür ve popülarite gibi metriklerini karşılaştırmak.
+![En Çok Tercih Edilen Türler](images/top_genres.png)
